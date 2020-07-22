@@ -1,0 +1,4 @@
+{
+  "app": "sbt cdk/run",
+  "requireApproval": "never"
+}
